@@ -1,0 +1,15 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "A simple Express server setup for handling requests.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
