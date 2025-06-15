@@ -1,6 +1,13 @@
 # Obsidian-Assets-Server
 Externalize obsidian assets!
 
+
+## TODO
+
+1. Combine env files to work off one config file
+2. I have to start a server and a file watcher. Ideally id want this to be one process
+
+
 ## Express Server
 
 This project sets up a simple Express server.
