@@ -6,6 +6,7 @@ Externalize obsidian assets!
 
 1. Combine env files to work off one config file
 2. I have to start a server and a file watcher. Ideally id want this to be one process
+3. Have OS dependent paths and maybe username dependent. This was designed to work on Desktop so whatever makes it easy to access the same vault
 
 
 ## Express Server
